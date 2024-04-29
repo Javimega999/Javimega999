@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! Hola mi nombre es Javier  Ramirez</h1>
+<h1 align="left">👋! Hola mi nombre es Javier  Ramirez</h1>
 
 ###
 
