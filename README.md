@@ -43,8 +43,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Javimega999/Javimega999/output/snake.svg" alt="Snake animation" />
 
 ###
